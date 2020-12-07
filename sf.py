@@ -9,7 +9,7 @@ formatted_sf_hos_data = open("data/formatted/sf-hospitalizations.csv", "w+")
 
 for line in range(1, len(sf_hos_data)):
 
-    pass
+    formatted_sf_hos_data.writelines([sf_hos_data[line].split(',')[-1]])
 
 print("Raw hospitalization data has been formatted.")
 print("The formatted hospitalization data can be found at `data/formatted/sf-hospitalizations`")
