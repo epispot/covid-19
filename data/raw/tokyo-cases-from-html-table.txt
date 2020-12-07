@@ -1,0 +1,1105 @@
+<tbody><tr><th scope="row" class="cardTable-header">
+December 4
+</th> <td class="text-end">
+1,856
+</td></tr><tr><th scope="row" class="cardTable-header">
+December 3
+</th> <td class="text-end">
+1,744
+</td></tr><tr><th scope="row" class="cardTable-header">
+December 2
+</th> <td class="text-end">
+1,721
+</td></tr><tr><th scope="row" class="cardTable-header">
+December 1
+</th> <td class="text-end">
+1,685
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 30
+</th> <td class="text-end">
+1,629
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 29
+</th> <td class="text-end">
+1,650
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 28
+</th> <td class="text-end">
+1,661
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 27
+</th> <td class="text-end">
+1,580
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 26
+</th> <td class="text-end">
+1,510
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 25
+</th> <td class="text-end">
+1,504
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 24
+</th> <td class="text-end">
+1,626
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 23
+</th> <td class="text-end">
+1,561
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 22
+</th> <td class="text-end">
+1,583
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 21
+</th> <td class="text-end">
+1,483
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 20
+</th> <td class="text-end">
+1,462
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 19
+</th> <td class="text-end">
+1,375
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 18
+</th> <td class="text-end">
+1,350
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 17
+</th> <td class="text-end">
+1,347
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 16
+</th> <td class="text-end">
+1,354
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 15
+</th> <td class="text-end">
+1,281
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 14
+</th> <td class="text-end">
+1,302
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 13
+</th> <td class="text-end">
+1,259
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 12
+</th> <td class="text-end">
+1,179
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 11
+</th> <td class="text-end">
+1,130
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 10
+</th> <td class="text-end">
+1,054
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 9
+</th> <td class="text-end">
+1,076
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 8
+</th> <td class="text-end">
+1,034
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 7
+</th> <td class="text-end">
+1,114
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 6
+</th> <td class="text-end">
+1,060
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 5
+</th> <td class="text-end">
+988
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 4
+</th> <td class="text-end">
+978
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 3
+</th> <td class="text-end">
+973
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 2
+</th> <td class="text-end">
+1,040
+</td></tr><tr><th scope="row" class="cardTable-header">
+November 1
+</th> <td class="text-end">
+1,024
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 31
+</th> <td class="text-end">
+1,031
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 30
+</th> <td class="text-end">
+1,013
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 29
+</th> <td class="text-end">
+943
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 28
+</th> <td class="text-end">
+973
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 27
+</th> <td class="text-end">
+969
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 26
+</th> <td class="text-end">
+951
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 25
+</th> <td class="text-end">
+934
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 24
+</th> <td class="text-end">
+1,037
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 23
+</th> <td class="text-end">
+980
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 22
+</th> <td class="text-end">
+945
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 21
+</th> <td class="text-end">
+964
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 20
+</th> <td class="text-end">
+944
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 19
+</th> <td class="text-end">
+990
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 18
+</th> <td class="text-end">
+982
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 17
+</th> <td class="text-end">
+1,062
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 16
+</th> <td class="text-end">
+1,051
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 15
+</th> <td class="text-end">
+997
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 14
+</th> <td class="text-end">
+1,002
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 13
+</th> <td class="text-end">
+1,000
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 12
+</th> <td class="text-end">
+1,008
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 11
+</th> <td class="text-end">
+1,083
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 10
+</th> <td class="text-end">
+1,116
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 9
+</th> <td class="text-end">
+1,085
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 8
+</th> <td class="text-end">
+1,008
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 7
+</th> <td class="text-end">
+1,006
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 6
+</th> <td class="text-end">
+979
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 5
+</th> <td class="text-end">
+976
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 4
+</th> <td class="text-end">
+976
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 3
+</th> <td class="text-end">
+1,057
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 2
+</th> <td class="text-end">
+1,070
+</td></tr><tr><th scope="row" class="cardTable-header">
+October 1
+</th> <td class="text-end">
+1,024
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 30
+</th> <td class="text-end">
+1,047
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 29
+</th> <td class="text-end">
+1,103
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 28
+</th> <td class="text-end">
+1,165
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 27
+</th> <td class="text-end">
+1,159
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 26
+</th> <td class="text-end">
+1,198
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 25
+</th> <td class="text-end">
+1,154
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 24
+</th> <td class="text-end">
+1,109
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 23
+</th> <td class="text-end">
+1,083
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 22
+</th> <td class="text-end">
+1,170
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 21
+</th> <td class="text-end">
+1,258
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 20
+</th> <td class="text-end">
+1,232
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 19
+</th> <td class="text-end">
+1,224
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 18
+</th> <td class="text-end">
+1,199
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 17
+</th> <td class="text-end">
+1,135
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 16
+</th> <td class="text-end">
+1,147
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 15
+</th> <td class="text-end">
+1,160
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 14
+</th> <td class="text-end">
+1,149
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 13
+</th> <td class="text-end">
+1,204
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 12
+</th> <td class="text-end">
+1,284
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 11
+</th> <td class="text-end">
+1,262
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 10
+</th> <td class="text-end">
+1,216
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 9
+</th> <td class="text-end">
+1,193
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 8
+</th> <td class="text-end">
+1,182
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 7
+</th> <td class="text-end">
+1,248
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 6
+</th> <td class="text-end">
+1,228
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 5
+</th> <td class="text-end">
+1,305
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 4
+</th> <td class="text-end">
+1,313
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 3
+</th> <td class="text-end">
+1,297
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 2
+</th> <td class="text-end">
+1,310
+</td></tr><tr><th scope="row" class="cardTable-header">
+September 1
+</th> <td class="text-end">
+1,333
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 31
+</th> <td class="text-end">
+1,390
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 30
+</th> <td class="text-end">
+1,401
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 29
+</th> <td class="text-end">
+1,445
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 28
+</th> <td class="text-end">
+1,398
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 27
+</th> <td class="text-end">
+1,346
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 26
+</th> <td class="text-end">
+1,328
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 25
+</th> <td class="text-end">
+1,474
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 24
+</th> <td class="text-end">
+1,522
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 23
+</th> <td class="text-end">
+1,564
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 22
+</th> <td class="text-end">
+1,632
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 21
+</th> <td class="text-end">
+1,581
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 20
+</th> <td class="text-end">
+1,575
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 19
+</th> <td class="text-end">
+1,565
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 18
+</th> <td class="text-end">
+1,571
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 17
+</th> <td class="text-end">
+1,614
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 16
+</th> <td class="text-end">
+1,641
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 15
+</th> <td class="text-end">
+1,666
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 14
+</th> <td class="text-end">
+1,605
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 13
+</th> <td class="text-end">
+1,541
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 12
+</th> <td class="text-end">
+1,560
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 11
+</th> <td class="text-end">
+1,658
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 10
+</th> <td class="text-end">
+1,659
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 9
+</th> <td class="text-end">
+1,710
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 8
+</th> <td class="text-end">
+1,682
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 7
+</th> <td class="text-end">
+1,601
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 6
+</th> <td class="text-end">
+1,509
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 5
+</th> <td class="text-end">
+1,475
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 4
+</th> <td class="text-end">
+1,476
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 3
+</th> <td class="text-end">
+1,475
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 2
+</th> <td class="text-end">
+1,382
+</td></tr><tr><th scope="row" class="cardTable-header">
+August 1
+</th> <td class="text-end">
+1,365
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 31
+</th> <td class="text-end">
+1,315
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 30
+</th> <td class="text-end">
+1,220
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 29
+</th> <td class="text-end">
+1,197
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 28
+</th> <td class="text-end">
+1,154
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 27
+</th> <td class="text-end">
+1,106
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 26
+</th> <td class="text-end">
+1,209
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 25
+</th> <td class="text-end">
+1,260
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 24
+</th> <td class="text-end">
+1,165
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 23
+</th> <td class="text-end">
+1,105
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 22
+</th> <td class="text-end">
+1,040
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 21
+</th> <td class="text-end">
+964
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 20
+</th> <td class="text-end">
+916
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 19
+</th> <td class="text-end">
+949
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 18
+</th> <td class="text-end">
+920
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 17
+</th> <td class="text-end">
+917
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 16
+</th> <td class="text-end">
+875
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 15
+</th> <td class="text-end">
+836
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 14
+</th> <td class="text-end">
+760
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 13
+</th> <td class="text-end">
+721
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 12
+</th> <td class="text-end">
+679
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 11
+</th> <td class="text-end">
+651
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 10
+</th> <td class="text-end">
+580
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 9
+</th> <td class="text-end">
+529
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 8
+</th> <td class="text-end">
+487
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 7
+</th> <td class="text-end">
+441
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 6
+</th> <td class="text-end">
+444
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 5
+</th> <td class="text-end">
+427
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 4
+</th> <td class="text-end">
+419
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 3
+</th> <td class="text-end">
+369
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 2
+</th> <td class="text-end">
+346
+</td></tr><tr><th scope="row" class="cardTable-header">
+July 1
+</th> <td class="text-end">
+324
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 30
+</th> <td class="text-end">
+296
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 29
+</th> <td class="text-end">
+280
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 28
+</th> <td class="text-end">
+264
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 27
+</th> <td class="text-end">
+272
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 26
+</th> <td class="text-end">
+242
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 25
+</th> <td class="text-end">
+233
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 24
+</th> <td class="text-end">
+223
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 23
+</th> <td class="text-end">
+218
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 22
+</th> <td class="text-end">
+215
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 21
+</th> <td class="text-end">
+225
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 20
+</th> <td class="text-end">
+231
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 19
+</th> <td class="text-end">
+219
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 18
+</th> <td class="text-end">
+204
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 17
+</th> <td class="text-end">
+209
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 16
+</th> <td class="text-end">
+220
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 15
+</th> <td class="text-end">
+230
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 14
+</th> <td class="text-end">
+229
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 13
+</th> <td class="text-end">
+248
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 12
+</th> <td class="text-end">
+241
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 11
+</th> <td class="text-end">
+234
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 10
+</th> <td class="text-end">
+228
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 9
+</th> <td class="text-end">
+237
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 8
+</th> <td class="text-end">
+256
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 7
+</th> <td class="text-end">
+264
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 6
+</th> <td class="text-end">
+281
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 5
+</th> <td class="text-end">
+276
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 4
+</th> <td class="text-end">
+269
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 3
+</th> <td class="text-end">
+272
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 2
+</th> <td class="text-end">
+290
+</td></tr><tr><th scope="row" class="cardTable-header">
+June 1
+</th> <td class="text-end">
+305
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 31
+</th> <td class="text-end">
+312
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 30
+</th> <td class="text-end">
+329
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 29
+</th> <td class="text-end">
+346
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 28
+</th> <td class="text-end">
+339
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 27
+</th> <td class="text-end">
+342
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 26
+</th> <td class="text-end">
+380
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 25
+</th> <td class="text-end">
+394
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 24
+</th> <td class="text-end">
+420
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 23
+</th> <td class="text-end">
+474
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 22
+</th> <td class="text-end">
+517
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 21
+</th> <td class="text-end">
+529
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 20
+</th> <td class="text-end">
+561
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 19
+</th> <td class="text-end">
+655
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 18
+</th> <td class="text-end">
+749
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 17
+</th> <td class="text-end">
+831
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 16
+</th> <td class="text-end">
+935
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 15
+</th> <td class="text-end">
+1,024
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 14
+</th> <td class="text-end">
+1,033
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 13
+</th> <td class="text-end">
+1,077
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 12
+</th> <td class="text-end">
+1,199
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 11
+</th> <td class="text-end">
+1,320
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 10
+</th> <td class="text-end">
+1,413
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 9
+</th> <td class="text-end">
+2,509
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 8
+</th> <td class="text-end">
+2,518
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 7
+</th> <td class="text-end">
+2,514
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 6
+</th> <td class="text-end">
+2,503
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 5
+</th> <td class="text-end">
+2,679
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 4
+</th> <td class="text-end">
+2,974
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 3
+</th> <td class="text-end">
+2,950
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 2
+</th> <td class="text-end">
+2,915
+</td></tr><tr><th scope="row" class="cardTable-header">
+May 1
+</th> <td class="text-end">
+2,856
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 30
+</th> <td class="text-end">
+2,783
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 29
+</th> <td class="text-end">
+2,673
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 28
+</th> <td class="text-end">
+2,608
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 27
+</th> <td class="text-end">
+2,718
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 26
+</th> <td class="text-end">
+2,690
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 25
+</th> <td class="text-end">
+2,668
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 24
+</th> <td class="text-end">
+2,814
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 23
+</th> <td class="text-end">
+2,766
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 22
+</th> <td class="text-end">
+2,688
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 21
+</th> <td class="text-end">
+2,548
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 20
+</th> <td class="text-end">
+2,461
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 19
+</th> <td class="text-end">
+2,601
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 18
+</th> <td class="text-end">
+2,507
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 17
+</th> <td class="text-end">
+2,711
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 16
+</th> <td class="text-end">
+2,690
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 15
+</th> <td class="text-end">
+2,679
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 14
+</th> <td class="text-end">
+2,487
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 13
+</th> <td class="text-end">
+2,340
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 12
+</th> <td class="text-end">
+2,219
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 11
+</th> <td class="text-end">
+2,064
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 10
+</th> <td class="text-end">
+1,974
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 9
+</th> <td class="text-end">
+1,810
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 8
+</th> <td class="text-end">
+1,611
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 7
+</th> <td class="text-end">
+1,428
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 6
+</th> <td class="text-end">
+1,251
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 5
+</th> <td class="text-end">
+1,112
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 4
+</th> <td class="text-end">
+1,034
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 3
+</th> <td class="text-end">
+951
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 2
+</th> <td class="text-end">
+815
+</td></tr><tr><th scope="row" class="cardTable-header">
+April 1
+</th> <td class="text-end">
+704
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 31
+</th> <td class="text-end">
+628
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 30
+</th> <td class="text-end">
+531
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 29
+</th> <td class="text-end">
+465
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 28
+</th> <td class="text-end">
+394
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 27
+</th> <td class="text-end">
+382
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 26
+</th> <td class="text-end">
+315
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 25
+</th> <td class="text-end">
+254
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 24
+</th> <td class="text-end">
+223
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 23
+</th> <td class="text-end">
+176
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 22
+</th> <td class="text-end">
+135
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 21
+</th> <td class="text-end">
+119
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 20
+</th> <td class="text-end">
+103
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 19
+</th> <td class="text-end">
+101
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 18
+</th> <td class="text-end">
+95
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 17
+</th> <td class="text-end">
+85
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 16
+</th> <td class="text-end">
+79
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 15
+</th> <td class="text-end">
+70
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 14
+</th> <td class="text-end">
+66
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 13
+</th> <td class="text-end">
+66
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 12
+</th> <td class="text-end">
+63
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 11
+</th> <td class="text-end">
+53
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 10
+</th> <td class="text-end">
+51
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 9
+</th> <td class="text-end">
+49
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 8
+</th> <td class="text-end">
+43
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 7
+</th> <td class="text-end">
+40
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 6
+</th> <td class="text-end">
+43
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 5
+</th> <td class="text-end">
+43
+</td></tr><tr><th scope="row" class="cardTable-header">
+March 4
+</th> <td class="text-end">
+37
+</td></tr></tbody>

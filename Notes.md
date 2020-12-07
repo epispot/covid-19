@@ -11,5 +11,3 @@ to the `covid-19` repo)
     - Data Source: https://raw.githubusercontent.com/nychealth/coronavirus-data/master/latest/now-data-by-day.csv
  - London, UK
     - Data Source: https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-hospital-activity/
- - Honolulu, US
-    - Data Source: https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/
