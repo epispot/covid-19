@@ -5,7 +5,7 @@ print("Fetching raw hospitalization data for New York from directory: ")
 print("data/raw/ny-hospitalizations.csv")
 
 ny_hos_data = open("data/raw/ny-hospitalizations.csv", "r").readlines()
-formatted_ny_hos_data = open("data/formatted/ny-hospitalizations.csv", "w+")
+formatted_ny_hos_data = open("studies/formatted/ny-hospitalizations.csv", "w+")
 
 for line in range(1, len(ny_hos_data)):
 

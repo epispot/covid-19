@@ -5,7 +5,7 @@ print("Fetching raw hospitalization data for Tokyo from directory: ")
 print("data/raw/tokyo-hospitalizations-from-html-table.txt")
 
 tokyo_hos_data = open("data/raw/tokyo-hospitalizations-from-html-table.txt", "r").readlines()
-formatted_tokyo_hos_data = open("data/formatted/tokyo-hospitalizations.csv", "w+")
+formatted_tokyo_hos_data = open("studies/formatted/tokyo-hospitalizations.csv", "w+")
 
 reversed_data_seq = []
 

@@ -6,7 +6,7 @@ print("data/raw/london-hospitalizations-from-excel.csv")
 
 # from line 15
 london_hos_data = open("data/raw/london-hospitalizations-from-excel.csv", "r").readlines()[15].split(',')
-formatted_london_hos_data = open("data/formatted/london-hospitalizations.csv", "w+")
+formatted_london_hos_data = open("studies/formatted/london-hospitalizations.csv", "w+")
 
 for char in range(2, len(london_hos_data)):
 
