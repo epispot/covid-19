@@ -6,8 +6,8 @@ The latest programs from the `epispot` package will be transferred to this repos
 Date | Expectations
 --- | ---
 1 :heavy_check_mark: | Transfer test models from `epispot` to this repository
-2 | Set up an automated workflow for website updates
-3 | Begin analyzing the effect of COVID-19 using the models
-4 | Continue building more model
+2 :heavy_check_mark: | Set up an automated workflow for website updates
+3 :heavy_check_mark: | Begin analyzing the effect of COVID-19 using the models
+4 | Continue building more models
 
 ## Ready for launch :rocket:
