@@ -179,3 +179,5 @@ for line in hos_file:
 range_container = [[range(0, 257), actual_hos, 'Actual Hospitalizations'],
                    [range(0, 256), pred_hos, 'Predicted Hospitalizations'], [range(0, 256), cases, 'Predicted Cases']]
 epi.plots.compare(range_container, 'San Francisco Predictions', 'From Hospitalization Data', seed=100)
+epi.plots.compare([[range(0, 260, 26), optimized_parameters[:10], 'R Naught Values']], 'Change in R Naught',
+                  'In San Francisco')
